@@ -118,5 +118,5 @@ function transformJsFilesInDir(dirPath) {
 }
 
 // 示例：转换指定目录下的所有JavaScript文件
-const jsDirPath = '/Users/caixin/Desktop/js_to_ts';
+const jsDirPath = '文件路径';
 transformJsFilesInDir(jsDirPath);
